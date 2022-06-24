@@ -1,2 +1,2 @@
 #!bin/bash
-als " School"
+echo" School"
